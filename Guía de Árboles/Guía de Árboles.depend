@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1697581044 source:c:\users\rocio\onedrive\escritorio\guía de Árboles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdbool.h>
+	<strings.h>
+	<time.h>
+
+1697820264 source:f:\guía de Árboles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdbool.h>
+	<strings.h>
+	<time.h>
+
+1697912674 source:c:\users\usuario\desktop\utn\laboratorio ii\laboratorio ii guías\guía de Árboles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdbool.h>
+	<strings.h>
+	<time.h>
+
